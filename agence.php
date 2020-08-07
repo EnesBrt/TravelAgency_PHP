@@ -37,7 +37,7 @@
 <body class="bg-primary">
     
     <section>
-    <h1 class="offset-4 mb-5 mt-5 text-white ">Choisiser votre séjour</h1>
+    <h1 class="offset-4 mb-5 mt-5 text-white ">Choisissez votre séjour</h1>
     <?php  $choix = $_POST['exampleRadios'];
     
     
