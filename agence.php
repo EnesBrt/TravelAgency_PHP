@@ -10,11 +10,12 @@
   if (empty($_POST['prenom']) && isset($_POST['prenom'])) {
     header('Location: formulaire.php');
     exit();
+  }
 
-    if (empty($_POST['civi']) && isset($_POST['civi'])) {
+   if (empty($_POST['civi']) && isset($_POST['civi'])) {
         header('Location: formulaire.php');
         exit();
-}
+   }
 
   $_SESSION['civi'] = $_POST['civi'];
   $_SESSION['nom'] = htmlspecialchars($_POST['nom']);
