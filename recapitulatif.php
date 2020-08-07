@@ -30,22 +30,22 @@
     } elseif ($choiceTravel == 'Les bahamas') {
         $price = 5000;
     
-    }elseif ($choiceTravel == 'Polynésie') {
+    } elseif ($choiceTravel == 'Polynésie') {
         $price = 7000;
     
-    }elseif ($choiceTravel == 'Guam') {
+    } elseif ($choiceTravel == 'Guam') {
         $price = 3500;
     
-    }elseif ($choiceTravel == 'Rome') {
+    } elseif ($choiceTravel == 'Rome') {
         $price = 100;
     
-    }elseif ($choiceTravel == 'Tokyo') {
+    } elseif ($choiceTravel == 'Tokyo') {
         $price = 500;
     
-    }elseif ($choiceTravel == 'Los Angeles') {
+    } elseif ($choiceTravel == 'Los Angeles') {
         $price = 700;
     
-    }elseif ($choiceTravel == 'Moscou') {
+    } elseif ($choiceTravel == 'Moscou') {
         $price = 350;
     
     }
