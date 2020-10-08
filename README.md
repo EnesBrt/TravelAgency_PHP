@@ -1,5 +1,6 @@
 # TravelAgency_PHP
-a basic website made with PHP
+
+un simple site web fait avec php 
 
 
 ![Image of Agency](web_picture/p1.png)
